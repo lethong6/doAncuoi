@@ -1,0 +1,4 @@
+301#48#quạt,bàn#tầng 3
+204#45#bảng,bàn,ghế#tầng 2
+235#46#quạt,bàn,bóng điện#tầng 2
+303#45#g#g
